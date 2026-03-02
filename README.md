@@ -1,11 +1,12 @@
-# Overview
+# Surname
 
-It is public template of assignment `"labrabota 3"` for FPMI students
+Makarov
 
-# Usage
+# Name
 
-Please, edit README and add some details, as instance **{add your last name, first name and group number}**.
+Ilia
 
-# Building
+# Group no
 
-Please, import repository and use for repl.it project, which is defined in the assignment "labrabota 3".
+13
+(b)
